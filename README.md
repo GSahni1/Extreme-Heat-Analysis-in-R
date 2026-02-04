@@ -13,6 +13,7 @@ This project loads daily temperature data, normalizes temperatures by year, and 
 - `LoadDataAndNormalizedTempByYear.R` — data loading, and visualizing normalized values
 - `ExtremHeatAnalysis.R` — main analysis and plotting
 - `Halifax_Heat_Analysis.Rproj` — RStudio project file
+- `ExtremeHeatReport.pbix`- Small Power BI report pertaining to number of extreme heat days every year
 
 ## Requirements ⚙️
 - R (recommended >= 4.0)
